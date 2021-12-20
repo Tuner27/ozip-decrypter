@@ -14,8 +14,8 @@ on:
     types: [started]
 
 env:
-  FIRMWARE_LINK: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1100_all_afysQxXkAd0p.ozip
-  FIRMWARE_NAME: RMX1851EX_11_OTA_1100_all_afysQxXkAd0p.ozip
+  FIRMWARE_LINK: https://download.c.realme.com/osupdate/RMX2001EU_11_OTA_0580_all_gOL8JUaK3iJO.ozip
+  FIRMWARE_NAME: RMX2001EU_11_OTA_0580_all_gOL8JUaK3iJO.ozip
   FIRMWARE_ZIP_NAME: RMX1851EX_11_OTA_1100_all_afysQxXkAd0p
   TZ: Asia/Kolkata
 
